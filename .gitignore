@@ -1,8 +1,7 @@
 target/**
 bin/**
-.settings/  
 .classpath  
-.project
 *.jar
 *.class
 *.factorypath
+/target/
